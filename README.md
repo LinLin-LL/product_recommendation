@@ -9,6 +9,7 @@
 
 ## Data Cleaning
 *	Only use completed orders
+* Implicit ratings: the number of purchases of each product from an user
 * Data preparation for PySpark ALS
 
 ## Data Sparsity
@@ -22,4 +23,4 @@
 *	**ALS** : ROEM = 
 
 ### Resources
-* https://github.com/jamenlong/ALS_expected_percent_rank_cv/blob/master/ROEM_function.py
+https://github.com/jamenlong/ALS_expected_percent_rank_cv/blob/master/ROEM_function.py
