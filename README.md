@@ -20,3 +20,6 @@
 
 ## Model performance on test set
 *	**ALS** : ROEM = 
+
+### Resources
+* https://github.com/jamenlong/ALS_expected_percent_rank_cv/blob/master/ROEM_function.py
