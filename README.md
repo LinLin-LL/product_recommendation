@@ -1,6 +1,6 @@
 # Product Recommendation Engine
 * Applied alternating least squares (ALS) algorithm to build a collaborative filtering recommendation system with purchase data for an online kids’ shoes store on Shopee.com
-* Sales from July 2020 to September 2020
+* Sales from July 2020 to October 2020
 * Evaluated models with rank ordering error metric (ROEM) and 78% of recommendations clicked 
 
 ## Code and Resources Used 
@@ -13,7 +13,7 @@
 * Data preparation for PySpark ALS
 
 ## Data Sparsity
-* ~91.71%
+* ~97.23%
 
 ## Model Building 
 * Split the data into train and tests sets with a test size of 20%
