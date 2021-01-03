@@ -20,7 +20,7 @@
 * Applied ALS algorithm and chose rank ordering error metric (ROEM) for implicit ratings to tune parameters
 
 ## Model performance on test set
-*	**ALS** : ROEM = 
+*	**ALS** : ROEM = 0.009318
 
 ### Resources
 https://github.com/jamenlong/ALS_expected_percent_rank_cv/blob/master/ROEM_function.py
